@@ -3,11 +3,14 @@
 <p> Hi, i'm Eduardo Fanis
 </p>
 
+<br/>
 
 ## 💻 Tech Stack:
 <a href="#">
     <img src="https://skillicons.dev/icons?i=go,dart,flutter,docker,linux,neovim,git&theme=dark" />
   </a>
+
+  <br/>
 
 ## Connect with Me
 <p>
@@ -22,8 +25,10 @@
   </a>
 </p>
 
+<br/>
+
 <details>
- <summary> Github Stats⚡</summary>
+ <summary> Github Stats</summary>
 <br>
 
 ![](https://github-readme-stats.vercel.app/api?username=fvnis&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
