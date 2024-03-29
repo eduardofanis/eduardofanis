@@ -1,6 +1,6 @@
 # Sup, i'm Eduardo Fanis 👋
 <p>
-    Technology enthusiast and full stack cross-platform developer passionate about improving.
+    Technology enthusiast and full stack developer passionate about improving.
 </p>
 
 <q>I am the greatest. I said that even before I knew I was.</q> - <strong>Muhammad Ali</strong>
