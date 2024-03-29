@@ -6,7 +6,7 @@
 
 ## 💻 Tech Stack:
 <a href="#">
-    <img src="https://skillicons.dev/icons?i=go,dart,flutter,neovim,vscode,git,github&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=go,dart,flutter,docker,neovim,git,github&theme=dark" />
   </a>
 
 ## Connect with Me
