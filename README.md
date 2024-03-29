@@ -2,7 +2,7 @@
 <p>
     Technology enthusiast and full stack cross-platform developer passionate about improving.
     <br/>
-    <q>I am the greatest. I said that even before I knew I was.</q> - Muhammad Ali
+    <q>I am the greatest. I said that even before I knew I was.</q> - **Muhammad Ali**
 </p>
 
 
