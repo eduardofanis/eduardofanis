@@ -1,12 +1,12 @@
 # Hey there👋
 
-<p> 
+<p> Hi, i'm Eduardo Fanis
 </p>
 
 
 ## 💻 Tech Stack:
 <a href="#">
-    <img src="https://skillicons.dev/icons?i=go,dart,flutter,docker,neovim,git&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=go,dart,flutter,docker,linux,neovim,git&theme=dark" />
   </a>
 
 ## Connect with Me
