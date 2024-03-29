@@ -1,7 +1,4 @@
-# Hey there👋
-
-<p> Hi, i'm Eduardo Fanis
-</p>
+# Sup, i'm Eduardo Fanis👋
 
 ## 💻 Tech Stack:
 <a href="#">
