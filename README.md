@@ -5,7 +5,7 @@
 
 ### My stack:
 <a href="#">
-    <img src="https://skillicons.dev/icons?i=go,dart,flutter,docker,linux,macos,windows,neovim,git&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=go,dart,flutter,docker,linux,mac,windows,neovim,git&theme=dark" />
   </a>
 
 
