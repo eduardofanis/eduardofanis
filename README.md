@@ -7,21 +7,6 @@
 <a href="#">
     <img src="https://skillicons.dev/icons?i=go,dart,flutter,docker,linux,neovim,git&theme=dark" />
   </a>
-  
-  <br/>
-  
-## Connect with Me
-<p>
- <a href="https://linkedin.com/in/faniseduardo">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
-  </a>
-  <a href="https://instagram.com/faniseduardo">
-    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" />
-  </a>
-  <a href="https://github.com/fvnis">
-    <img src="https://skillicons.dev/icons?i=github&theme=dark" />
-  </a>
-</p>
 
 <br/>
 
