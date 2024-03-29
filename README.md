@@ -1,9 +1,9 @@
 # Sup, i'm Eduardo Fanis 👋
 <p>
     Technology enthusiast and full stack cross-platform developer passionate about improving.
+    <q>I am the greatest. I said that even before I knew I was.</q> - Muhammad Ali
 </p>
 
-<q>"I am the greatest. I said that even before I knew I was." - Muhammad Ali</q>
 
 ### My stack:
 <a href="#">
