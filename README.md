@@ -1,16 +1,33 @@
-### Hi there 👋
+# Hey there👋
 
-<!--
-**fvnis/fvnis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p> 
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack:
+<a href="#">
+    <img src="https://skillicons.dev/icons?i=go,dart,flutter,neovim,vscode,git,github&theme=dark" />
+  </a>
+
+## Connect with Me
+<p>
+ <a href="https://linkedin.com/in/faniseduardo">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
+  </a>
+  <a href="https://instagram.com/faniseduardo">
+    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" />
+  </a>
+  <a href="https://github.com/fvnis">
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" />
+  </a>
+</p>
+
+<details>
+ <summary> Github Stats⚡</summary>
+<br>
+
+![](https://github-readme-stats.vercel.app/api?username=fvnis&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=fvnis&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=fvnis&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+</details>
