@@ -1,6 +1,6 @@
 # Sup, i'm Eduardo Fanis 👋
 <p>
-    Technology Enthusiast and Full Stack Cross-Platform Developer.
+    Technology enthusiast and full stack cross-platform developer passionate about improving.
 </p>
 
 ### My stack:
