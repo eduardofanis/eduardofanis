@@ -1,4 +1,7 @@
 # Sup, i'm Eduardo Fanis 👋
+<p>
+    Passionate Technology Enthusiast and Full Stack Cross Platform Developer.
+</p>
 
 ## Stack
 <a href="#">
