@@ -1,6 +1,6 @@
 # Sup, i'm Eduardo Fanis 👋
 <p>
-    Technology enthusiast and full stack developer trying to make life easier.
+    Technology enthusiast and full stack developer trying to make our lives easier.
 </p>
 
 ### My stack:
