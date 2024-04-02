@@ -1,6 +1,6 @@
 # Sup, i'm Eduardo Fanis 👋
 <p>
-    Technology enthusiast and full stack developer building <strong>beautiful</strong>, <strong>robust</strong> and <strong>scallable</strong> apps trying to make our lives easier.
+    Technology enthusiast and full stack developer building beautiful, scallable and robust apps with the aim of making our lives easier.
 </p>
 
 ### My stack:
