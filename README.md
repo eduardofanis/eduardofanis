@@ -3,7 +3,7 @@
     Technology enthusiast and full stack developer building beautiful UIs, scalable apps and robust codes while listening to music.
 </p>
 
-<q>The future belongs to those who believe in the beauty of their dreams.</q> - <strong>Eleanor Roosevelt</strong>
+<q>The secret of success is to do the common thing uncommonly well.</q> - <strong>John D. Rockefeller Jr./strong>
 
 ### My stack:
 <a href="#">
