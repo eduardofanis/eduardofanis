@@ -4,7 +4,7 @@
 </p>
 
 <p>
-    You can find me on my <a target="_blank" href="https://instagram.com/faniseduardo">Instagram</a>, connect with me on my <a target="_blank" href="https://linkedin.com/in/faniseduardo">Linkedin</a> or see whats happening on my <a target="_blank" href="https://fvnis.dev">Personal website</a>. See you around!
+    You can find me on my <a target="_blank" href="https://instagram.com/faniseduardo">Instagram</a>, connect with me on my <a target="_blank" href="https://linkedin.com/in/faniseduardo">Linkedin</a>, see whats happening on my <a target="_blank" href="https://fvnis.dev">Personal website</a> or send me a email <a href="mailto:eduardo.fanis@hotmail.com">eduardo.fanis@hotmail.com</a>. See you around!
 </p>
 
 <q>The secret of success is to do the common thing uncommonly well.</q> - <strong>John D. Rockefeller Jr.</strong>
