@@ -1,6 +1,6 @@
 # Sup, i'm Eduardo Fanis 👋
 <p>
-    Technology enthusiast and full stack developer building beautiful UIs, scalable apps and robust codes.
+    Technology enthusiast and full stack developer, building beautiful UIs and scalable apps.
 </p>
 
 <q>The secret of success is to do the common thing uncommonly well.</q> - <strong>John D. Rockefeller Jr.</strong>
