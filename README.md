@@ -11,7 +11,7 @@
 
 ### My stack:
 <a href="#">
-    <img src="https://skillicons.dev/icons?i=go,dart,flutter,docker,neovim,vscode,git,figma&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=go,dart,flutter,docker,neovim,vscode,figma&theme=dark" />
   </a>
 
 
