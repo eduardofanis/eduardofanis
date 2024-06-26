@@ -9,4 +9,9 @@
 
 <q>The secret of success is to do the common thing uncommonly well.</q> - <strong>John D. Rockefeller Jr.</strong>
 
+### My stack:
+<a href="#">
+    <img src="https://skillicons.dev/icons?i=typescript,javascript,react,tailwind,prism,docker,vscode,figma&theme=dark" />
+  </a>
+
 
