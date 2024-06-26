@@ -1,6 +1,6 @@
 # Sup, i'm Eduardo Fanis 👋
 <p>
-    Technology enthusiast and full stack developer, building scalable apps with beautiful UIs.
+    Technology enthusiast, Front-End Developer & UI Designer, turning great ideas into beautiful UIs.
 </p>
 
 <p>
@@ -8,10 +8,5 @@
 </p>
 
 <q>The secret of success is to do the common thing uncommonly well.</q> - <strong>John D. Rockefeller Jr.</strong>
-
-### My stack:
-<a href="#">
-    <img src="https://skillicons.dev/icons?i=go,dart,flutter,docker,neovim,vscode,figma&theme=dark" />
-  </a>
 
 
