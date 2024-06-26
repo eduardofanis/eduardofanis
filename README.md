@@ -11,7 +11,7 @@
 
 ### My stack:
 <a href="#">
-    <img src="https://skillicons.dev/icons?i=typescript,javascript,react,tailwind,prism,docker,vscode,figma&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=typescript,javascript,react,tailwind,prisma,docker,vscode,figma&theme=dark" />
   </a>
 
 
