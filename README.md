@@ -1,6 +1,6 @@
 # Sup, i'm Eduardo Fanis 👋
 <p>
-    Technology enthusiast, Front-End Developer & UI Designer, turning great ideas into beautiful UIs.
+    Technology enthusiast, Full-stack Developer, turning great ideas into nice apps.
 </p>
 
 <p>
